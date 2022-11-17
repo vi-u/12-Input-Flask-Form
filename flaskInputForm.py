@@ -9,7 +9,7 @@ def form():
 @app.route('/output', methods = ['POST', 'GET'])
 def data():
     if request.method == 'GET':
-        return f"The URL /data is accessed directly. Try going to '/form' to submit form"
+        return f"The URL /data is accessed directly. Try going to '/input' to submit form"
     if request.method == 'POST':
         form_data = request.form
         return render_template('output.html',form_data = form_data)
