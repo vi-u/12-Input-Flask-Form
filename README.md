@@ -6,6 +6,7 @@ To run it,
 first, clone it and "cd" to directory "Input-Flask-Form"
 
     $ git clone https://github.com/vi-u/Input-Flask-Form.git
+    
     $ cd Input-Flask-Form
 
 second, run command to start web server in your browser
