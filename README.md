@@ -1,40 +1,18 @@
 # Input-Flask-Form
 >>>>    Basic Flask Form to Collect Input Data
 
-Create folder  called "flaskForm"
+Install this repository in your local directory and "cd" to ""
 
-$ mkdir flskForm
-$ cd flaskForm
+  $ git clone
 
-Get URL of current depo in
-Code > Clole > HTTPS
-
-and install it in your directory
-
-$ git clone
-
-$ ls
-$ cd
+  $ ls
+  $ cd
 
 
-create file flaskF.py and add code for server in Flask
 
-$ nano flskF.py
-
-
-create folder templates and 
-$ mkdir templates
-
-$cd/templates
-create file form.html and ad code go utilise get method
-
-create file data.html and add code to retrieve the date (post method)
-
-get back to root at
-$ cd ..
 
 and run flaskF.py
-$ python flaskF.py
+  $ python flaskF.py
 
 #######
 
