@@ -1,19 +1,21 @@
 # Input-Flask-Form
 >>>>    Basic Flask Form to Collect Input Data
 
-Install this repository in your local directory and "cd" to ""
+To run it,
 
-    $ git clone
+first, clone it and "cd" to directory "Input-Flask-Form"
 
-    $ ls
-    $ cd
+    $ git clone https://github.com/vi-u/Input-Flask-Form.git
+    $ cd Input-Flask-Form
 
+second, run command to start web server in your browser
 
+    $ python flaskInputForm.py
 
+third, open this page in your browser:
 
-and run flaskF.py
-    
-    $ python flaskF.py
+    localhost/5000/input
+
 
 ****
 
