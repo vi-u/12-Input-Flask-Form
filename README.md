@@ -3,30 +3,31 @@
 
 Install this repository in your local directory and "cd" to ""
 
-  $ git clone
+    $ git clone
 
-  $ ls
-  $ cd
+    $ ls
+    $ cd
 
 
 
 
 and run flaskF.py
-  $ python flaskF.py
+    
+    $ python flaskF.py
 
-#######
+****
 
 The request.form has a dictionary structure:
 
-form_data = {
-'key1(field1_name)' : 'value1(field1_value)',
-'key2(field2_name)' : 'value2(field2_value)',
-.
-.
-}
+    form_data = {
+    'key1(field1_name)' : 'value1(field1_value)',
+    'key2(field2_name)' : 'value2(field2_value)',
+    .
+    .
+    }
 
 
-######
+*****
 
 templates use Jinja2 Templating Language
 
