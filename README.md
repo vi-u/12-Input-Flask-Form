@@ -3,21 +3,21 @@
 
 To run it,
 
-first, clone it and "cd" to directory "Input-Flask-Form"
+first, in terminal clone it and "cd" to directory "12-Input-Flask-Form"
 
-    $ git clone https://github.com/vi-u/Input-Flask-Form.git   
+    $ git clone https://github.com/vi-u/12-Input-Flask-Form.git   
 
 then
 
-    $ cd Input-Flask-Form
+    $ cd 12-Input-Flask-Form
 
-second, run command to start web server in your browser
+second, in terminal run command to start web server in your browser
 
     $ python flaskInputForm.py
 
-third, open this page in your browser:
+third, in your browser open this page:
 
-    localhost/5000/input
+    localhost:5000/input
 
 
 ****
